@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">血量Mod</string>
+    <string-array name="My_xl">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>落</item>
+        <item>叶</item>
+        <item>归</item>
+        <item>根</item>
+        <item>饮</item>
+        <item>水</item>
+        <item>思</item>
+        <item>源</item>
+        <item>欧</item>
+        <item>李</item>
+        <item>张</item>
+    </string-array>
+</resources>
